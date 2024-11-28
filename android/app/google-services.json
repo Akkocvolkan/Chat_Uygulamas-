@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982805975721",
+    "project_id": "anket-1726f",
+    "storage_bucket": "anket-1726f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982805975721:android:aed1a432baf60e99ac8fb8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9s4Tg-8cJqZNQ--loyWS7G3RqdjlVjA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
